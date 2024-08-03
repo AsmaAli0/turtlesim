@@ -31,4 +31,16 @@ you can use the arrows keys to move the turtle around!
 
 https://github.com/user-attachments/assets/d3e74435-4bf7-4ae5-b289-4b223ef632da
 
+## -Using rqt_graph
+rqt_graph creates a dynamic graph of what's going on in the system.
+In a new terminal tab :
+
+```
+$ rosrun rqt_graph rqt_graph
+```
+
+<img width="368" alt="t3" src="https://github.com/user-attachments/assets/6e6377fd-3dfc-4565-896e-748871b4a28c">
+
+
+
 # Hope this was a useful toturial,try it out its easy and fun  !! 
